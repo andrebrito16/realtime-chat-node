@@ -44,7 +44,7 @@ Technologies that I used to develop this api
 ![NodeJS](https://img.shields.io/badge/Nodejs-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TypeOrm](https://img.shields.io/badge/TypeOrm-00000?style=for-the-badge&logo=TypeOrm&logoColor=white)
-![Sqlite](https://img.shields.io/badge/Mongoose-00000?style=for-the-badge&logo=sqlite3&logoColor=white)
+![Sqlite](https://img.shields.io/badge/Sqlite-00000?style=for-the-badge&logo=sqlite3&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-f7b93e?style=for-the-badge&logo=prettier&logoColor=black)
 
 ## 💻 Getting started
